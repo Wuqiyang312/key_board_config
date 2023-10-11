@@ -1,0 +1,80 @@
+
+#anjian_dakuangjia {
+    width: 972px;
+    height: 332px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    background-color: #323232;
+    position: relative;left: 0px;top: 0px;
+}
+
+#anjian_dakuangjia_zuo {
+    width: 884px;
+    float: left
+}
+
+.xunijianpandakuangjia{
+    background-color:#000000;
+    text-align:center;
+    border-radius:50px;
+}
+
+.anjian_jiange {
+    height: 32px;
+    float: left
+}
+
+#anjian_dakuangjia_you {
+    width: 38px;
+    float: left
+}
+
+.anjian_1 {
+    height: 29px;
+    width: 26px;
+    background-color: #fff;
+    border: 1px solid #CCC;
+    padding-left: 4px;
+    padding-top: 1px;
+    float: left;
+    margin-right: 3px;
+    margin-left: 3px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    overflow: hidden;
+    font-size:10px;
+    Line-height:12px;
+
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+
+}
+
+
+.anjian_2 {
+    height: 28px;
+    width: 48px;
+    background-color: #fff;
+    border: 1px solid #CCC;
+    padding-left: 1px;
+    padding-top: 1px;
+    float: left;
+    margin-right: 3px;
+    margin-left: 3px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    overflow: hidden;
+    font-size:10px;
+    Line-height:24px;
+
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+
+}

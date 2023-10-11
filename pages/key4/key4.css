@@ -1,0 +1,115 @@
+.usbImage
+{
+    z-index: 9999; 
+    margin: 0px auto;
+    width: 20px;
+    height: 45px; 
+    text-align:center;
+    background: #ffffff; 
+    position: relative;
+    left: -2px;
+    top: 12px;
+}
+
+
+.miniKeyBoardWaiKuang{
+    width: 600px;
+    height: 240px;
+    background-color:#C0C0C0;
+    text-align:center;
+    border-radius:60px;
+    margin: 0 auto;
+    position: relative;left: 0px;top: 0px;
+    
+}
+
+.miniKeyboardUsb{
+    width:30px ;
+    height: 0px;
+    text-align: center;
+    border-top:12px solid #ffffff;
+    border-left:10px solid transparent;
+    border-right:10px solid transparent;
+    position: relative;
+    left:273px;
+    top: 0px;
+}
+    
+.miniKeyboardLuosiWaikuang_Shang{
+    width:546px;
+    height:16px;
+    background-color:#c0c0c0;
+    position: relative;
+    left:27px;
+    top:20px;
+}
+
+.miniKeyboardLuosi1{
+    width:16px;
+    height:16px;
+    border-radius:8px;
+    background-color:#ffffff;
+    float: left;
+    line-height:13px;
+    font-size:20px;
+}
+
+.miniKeyboardLuosi2{
+    width:16px;
+    height:16px;
+    border-radius:8px;
+    background-color:#ffffff;
+    float: right;
+    line-height:13px;
+    font-size:20px;
+}
+
+.miniKeyBoardAnjian{
+    width: 127px;
+    height: 127px;
+    background-color:#000000;
+    text-align:center;
+    font-size: 20px;
+    border-radius:10px;
+    margin: 28px auto;
+    color:#C0C0C0;
+}
+
+.miniKeyboardLuosiWaikuang_Xia{
+    width:546px;
+    height:16px;
+    background-color:#c0c0c0;
+    position: relative;
+    left:27px;
+    top: -20px;
+}
+
+.virtualKeyboardPage{
+    margin-top: 50px;
+    width: 100%;
+    height: 362px;
+    border: medium none;
+
+}
+.guide{
+    width:110px;
+    height:110px;
+    border-radius:85px;
+    text-align: center;
+    line-height: 110px;
+
+    background-color:#4d93db;
+    font-size:20px;
+    color:#ffffff;
+    
+    margin: 0px auto;
+    position: relative;
+    left: 500px;
+    top: 100px;
+
+    z-index: 9999;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}

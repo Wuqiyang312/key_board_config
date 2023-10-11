@@ -1,0 +1,43 @@
+.connectButtonKuang{
+    margin: auto auto;
+    background-color:#ffffff;
+    text-align:center;
+}
+
+.connectButton{
+    width:340px ;
+    height: 140px;
+    margin: 0 auto;
+    background-color:#4d93db;
+
+    border:1px  solid #ffffff;
+    color:#ffffff;
+    text-align:center;
+    border-radius:16px;
+    font-size:48px;
+
+    position: relative;left: 0px;top: 200px;
+}
+
+.guide{
+    width:110px;
+    height:110px;
+    border-radius:85px;
+    text-align: center;
+    line-height: 110px;
+
+    background-color:#4d93db;
+    font-size:20px;
+    color:#ffffff;
+    
+    margin: 0px auto;
+    position: relative;
+    left: 500px;
+    top: 100px;
+
+    z-index: 9999;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<style>
+.placeholderWidth {
+    height: 32px;
+    float: left
+}
+
+.corporationTitle{
+
+    line-height:50px;
+    background:#eeeeee;
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.FunctionPage{
+    margin-top: 50px;
+    width: 100%;
+    height: 900px;
+    border: medium none;
+}
+</style>
+<script type="module" src="./js/main.js"></script>
+
+<head>
+  <meta charset="utf-8">
+  <title>键盘设置</title>
+</head>
+
+
+<body id ="indexBody">
+  <div class = "corporationTitle" >
+    <div class="placeholderWidth" style="width: 10%;"></div>
+    
+  </div>
+  <iframe hidden class = "FunctionPage" id = "connectDevicePages" src="/pages/connectDevice/connectDevice.html"></iframe>
+  <div style = "text-align:center; position: relative;left: 0px;top: 160px; " id = "message" hidden>
+    <div style = "text-align:center;font-size: 40px;">该浏览器暂不支持连接</div>
+    <div style="clear: both;height: 10px;"></div>
+    <div style = "text-align:center;font-size: 25px;">请使用谷歌浏览器或者Edge浏览器打开该网站！</div>
+    
+    <div style="clear: both;height: 8px;"></div>
+  <div style = "text-align:center">
+    <a href="https://www.google.cn/chrome/"  target="opentype">谷歌浏览器安装点这里</a>
+  </div>
+
+</div>
+
+  <div id="bottom">
+  </div>
+
+    
+
+</body>
+
+</html>
